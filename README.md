@@ -10,3 +10,4 @@ Le repository contient :
 
 *L'executable de l'application finale :  "SMS Alert -  Spam Detector"
 
+Note: Tout est développé en python v3.6!
